@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="13.0">
+	<Story Self="u211" IsEndnoteStory="false" UserText="true" AppliedTOCStyle="n" StoryTitle="$ID/" TrackChanges="false" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/High Alpha">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Σ	4	Leland F. Reynolds	Sep. 1913	–	Oct. 1913</Content>
+				<Br />
+				<Content>Σ	6	Raymond B. Watters	Oct. 1913	–	Feb. 1914</Content>
+				<Br />
+				<Content>Σ	13	Lewis W. Edison	Feb. 1914	–	Nov. 1914</Content>
+				<Br />
+				<Content>Σ	6	Raymond B. Watters	Nov. 1914	–	May 1915</Content>
+				<Br />
+				<Content>Σ	19	Frederick L. Stevenson	May 1915	–	Jan. 1916</Content>
+				<Br />
+				<Content>Σ	16	Frank L. Blood	1916	–	1917</Content>
+				<Br />
+				<Content>Σ	53	Earl C. Payne	1917	–	1918</Content>
+				<Br />
+				<Content>Σ	76	William G. Lush	1918	–	1919</Content>
+				<Br />
+				<Content>Σ	95	Curtis E. Bottum	1919	–	1920</Content>
+				<Br />
+				<Content>Σ	83	John M. Sessions	1920	–	1921</Content>
+				<Br />
+				<Content>Σ	102	Charles M. Spaulding	1921	–	1922</Content>
+				<Br />
+				<Content>Σ	108	Gordon C. Harris	1922	–	1923</Content>
+				<Br />
+				<Content>Σ	143	Frank M. Edwards	1923	–	1924</Content>
+				<Br />
+				<Content>Σ	147	Clifford C. Pratt	1924	–	1925</Content>
+				<Br />
+				<Content>Σ	163	Paul C. Willett	Jan. 1925	–	Feb. 1925</Content>
+				<Br />
+				<Content>Σ	151	John H. Button	1925	–	1926</Content>
+				<Br />
+				<Content>Σ	169	Robert M. Van Duzer, Jr.	1926	–	1927</Content>
+				<Br />
+				<Content>Σ	189	Frederick G. Metz	1927	–	1928</Content>
+				<Br />
+				<Content>Σ	203	R. Sterling Cole	1928	–	1929</Content>
+				<Br />
+				<Content>Σ	223	Nando F. Haase	1929	–	1930</Content>
+				<Br />
+				<Content>Σ	202	Bruce Schwarze	1930	–	1931</Content>
+				<Br />
+				<Content>Σ	226	David M. Nichol	1931	–	1932</Content>
+				<Br />
+				<Content>Σ	260	William H. Mohrhoff	1932	–	1933</Content>
+				<Br />
+				<Content>Σ	265	Robert K. McKenzie	1933	–	1934</Content>
+				<Br />
+				<Content>Σ	274	Allen D. McCombs	1934	–	1935</Content>
+				<Br />
+				<Content>ΓO	217	Douglas R. Stanley	1935	–	1936</Content>
+				<Br />
+				<Content>Σ	292	Arthur A. Whiting, Jr.	1936	–	1937</Content>
+				<Br />
+				<Content>Σ	301	Walter J. Truce, Jr.	Jan. 1937	–	Sep. 1937</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/High Alpha">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Σ	305	W. Jack MacLeod, Jr.	Sep. 1937	–	Mar. 1938</Content>
+				<Br />
+				<Content>Σ	321	Morgan L. J. Gibbs	1938	–	1939</Content>
+				<Br />
+				<Content>Σ	317	William D. Hope	1939	–	1940</Content>
+				<Br />
+				<Content>Σ	350	Vincent J. Gottschalk	1940	–	1941</Content>
+				<Br />
+				<Content>Σ	356	John W. MacMillan	1941	–	1942</Content>
+				<Br />
+				<Content>Σ	355	Herbert J. Howerth, Jr.	Feb. 1942	–	Sep. 1942</Content>
+				<Br />
+				<Content>Σ	487	Robert J. Patton	Sep. 1942	–	Feb. 1943</Content>
+				<Br />
+				<Content>Σ	354	Joseph M. Gwinn III	Feb. 1943	–	Sep. 1943</Content>
+				<Br />
+				<Content>Σ	491	James H. Wekel	Sep. 1943	–	Mar. 1944</Content>
+				<Br />
+				<Content>Σ	493	Allen A. Raymond	Mar. 1944	–	Sep. 1944</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/High Alpha">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Σ	504	Donald S. Snider	Sep. 1944	–	Mar. 1945</Content>
+				<Br />
+				<Content>Σ	511	James A. Richardson, Jr.	Jul. 1945	–	Sep. 1946</Content>
+				<Br />
+				<Content>Ξ	475	Raymond T. Scott	Sep. 1946	–	Feb. 1947</Content>
+				<Br />
+				<Content>Σ	498	Warren L. Heller	Feb. 1947	–	Sep. 1947</Content>
+				<Br />
+				<Content>KΦ	312	Edward Law, Jr.	Sep. 1947	–	Feb. 1948</Content>
+				<Br />
+				<Content>Σ	527	Frank J. Pipp, Jr.	1948	–	1949</Content>
+				<Br />
+				<Content>Σ	555	Emmett I. Smith, Jr.	1949	–	1950</Content>
+				<Br />
+				<Content>Σ	578	Benton E. Gates, Jr.	1950	–	1951</Content>
+				<Br />
+				<Content>Σ	629	Charles E. Cuson	1951	–	1952</Content>
+				<Br />
+				<Content>Σ	647	Wilbur J. Markstrom	1952	–	1953</Content>
+				<Br />
+				<Content>Σ	667	Richard E. Sonntag	1953	–	1954</Content>
+				<Br />
+				<Content>Σ	657	Richard T. Good	1954	–	1955</Content>
+				<Br />
+				<Content>Σ	719	Constantine J. Gianakaris	1955	–	1956</Content>
+				<Br />
+				<Content>Σ	706	George A. Grove	1956	–	1957</Content>
+				<Br />
+				<Content>Σ	736	Kerry E. Johnson	Jan. 1957	–	Sep. 1957</Content>
+				<Br />
+				<Content>Σ	726	Stanley M. Head	Sep. 1957	–	Jan. 1958</Content>
+				<Br />
+				<Content>Σ	768	R. Bruce Johnson	1958	–	1959</Content>
+				<Br />
+				<Content>Σ	754	Harold G. Bay	1959	–	1960</Content>
+				<Br />
+				<Content>Σ	812	David R. Carpenter	1960	–	1961</Content>
+				<Br />
+				<Content>Σ	832	James R. Nette	1961	–	1962</Content>
+				<Br />
+				<Content>Σ	863	Roderick K. Johnson	1962	–	1963</Content>
+				<Br />
+				<Content>Σ	868	Frank A. Lude	1963	–	1964</Content>
+				<Br />
+				<Content>Σ	900	Edward A. Petrick	1964	–	1965</Content>
+				<Br />
+				<Content>Σ	955	Hugh R. Whiting	1965	–	1966</Content>
+				<Br />
+				<Content>Σ	966	Ivars Zadvinskis	1966	–	1967</Content>
+				<Br />
+				<Content>Σ	981	Timothy M. Stone	1967	–	1968</Content>
+				<Br />
+				<Content>Σ	1026	Lawrence I. McKay III	1968	–	1969</Content>
+				<Br />
+				<Content>Σ	1050	James E. Quackenbush	1969</Content>
+				<Br />
+				<Content>Σ	1067	Frederick C. Matthaei III	1969	–	1970</Content>
+				<Br />
+				<Content>Σ	1121	David E. Jarvis	1970	–	1971</Content>
+				<Br />
+				<Content>Σ	1142	Gary S. Kreps	1971	–	1972</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/High Alpha">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Σ	1156	Bruce L. Koepfgen	1972	–	1973</Content>
+				<Br />
+				<Content>Σ	1173	Michael Bartholomew	1973	–	1974</Content>
+				<Br />
+				<Content>Σ	1181	Wayne N. Leimbach	1974	–	1975</Content>
+				<Br />
+				<Content>Σ	1200	Stephen S. Grimm	1975	–	1976</Content>
+				<Br />
+				<Content>Σ	1240	Michael R. French	1976	–	1977</Content>
+				<Br />
+				<Content>Σ	1287	Steven M. Scheidt	1977	–	1978</Content>
+				<Br />
+				<Content>Σ	1312	Hugh D. Sullivan	1978	–	1979</Content>
+				<Br />
+				<Content>Σ	1364	Douglas V. Van Dagens	1979	–	1980</Content>
+				<Br />
+				<Content>Σ	1389	Robert G. Hiss	1980	–	1981</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/High Alpha">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Σ	1421	Gregg F. Averill	1981	–	1982</Content>
+				<Br />
+				<Content>Σ	1454	Phillip E. McCarthy, Jr.	1982	–	1983</Content>
+				<Br />
+				<Content>Σ	1468	Frederick W. Bolander	1983	–	1984</Content>
+				<Br />
+				<Content>Σ	1515	Eric A. Haab	1984	–	1985</Content>
+				<Br />
+				<Content>Σ	1525	Patrick J. Kelley	1985	–	1986</Content>
+				<Br />
+				<Content>Σ	1578	Michael C. Hefter	1986	–	1987</Content>
+				<Br />
+				<Content>ΛΩ	364	John L. Fraser	1987	–	1988</Content>
+				<Br />
+				<Content>Σ	1628	William E. Luberto	1988	–	1989</Content>
+				<Br />
+				<Content>Σ	1660	Richard Maicki	1989	–	1990</Content>
+				<Br />
+				<Content>Σ	1692	Patrick A. Tummonds	1990	–	1991</Content>
+				<Br />
+				<Content>Σ	1711	Joseph Schultz	1991	–	1992</Content>
+				<Br />
+				<Content>Σ	1724	David S. Miner	1992	–	1993</Content>
+				<Br />
+				<Content>Σ	1750	David Wheeler	1993	–	1994</Content>
+				<Br />
+				<Content>Σ	1771	Matthew Helber	1994	–	1995</Content>
+				<Br />
+				<Content>Σ	1793	Farage Yusupov 	1998	–	1999</Content>
+				<Br />
+				<Content>Σ	1800	Daniel C. Thompson	1999	–	2000</Content>
+				<Br />
+				<Content>Σ	1801	Gregory J. Wright 	2000	–	2001</Content>
+				<Br />
+				<Content>Σ	1812	Sachin R. Master	2001</Content>
+				<Br />
+				<Content>Σ	1814	Jason W. Harris	2001</Content>
+				<Br />
+				<Content>Σ	1819	Aaron J. Martinak	2001</Content>
+				<Br />
+				<Content>Σ	1815	Nathan A. Whetsell	2001	–	2002</Content>
+				<Br />
+				<Content>Σ	1818	Anthony R. Sassi	2002	–	2003</Content>
+				<Br />
+				<Content>Σ	1829	Stephen C. Marin	2003	–	2005</Content>
+				<Br />
+				<Content>Σ	1837	Mariano E. Lowenstern	2006</Content>
+				<Br />
+				<Content>Σ	1839	Sean M. Ruwart	2007</Content>
+				<Br />
+				<Content>Σ	1859	Anthony J. Budzinski III	2008</Content>
+				<Br />
+				<Content>Σ	1865	Brian T. Hicks	2009</Content>
+				<Br />
+				<Content>Σ	1853	Gabriel S. Johnson	2010</Content>
+				<Br />
+				<Content>Σ	1885	R. Benjamin Clark	2011</Content>
+				<Br />
+				<Content>Σ	1895	Davud N. Kucukarslan	2012</Content>
+				<Br />
+				<Content>Σ	1914	Rex Zhou	2013</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/High Alpha" />
+	</Story>
+</idPkg:Story>

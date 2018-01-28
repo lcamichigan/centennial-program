@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="13.0">
+	<Story Self="u1b2" IsEndnoteStory="false" UserText="true" AppliedTOCStyle="n" StoryTitle="$ID/" TrackChanges="false" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Heading">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>High Zeta</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/High Zeta">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Rex Zhou	High Alpha	President</Content>
+				<Br />
+				<Content>Jacob E. Taber	High Beta	Internal Vice President</Content>
+				<Br />
+				<Content>Greggory J. Myers	High Theta	External Vice President</Content>
+				<Br />
+				<Content>Craig J. Friend	High Gamma	Secretary</Content>
+				<Br />
+				<Content>James J. Miron	High Tau	Treasurer</Content>
+				<Br />
+				<Content>Robert W. Brandon	High Iota	Risk Manager</Content>
+				<Br />
+				<Content>Scott M. Godbold	High Kappa	Fraternity Educator</Content>
+				<Br />
+				<Content>Davud N. Kucukarslan	High Delta	Recruitment Chairman</Content>
+				<Br />
+				<Content>Brian M. Verkinderen	High Phi	Ritualist</Content>
+				<Br />
+				<Content>Cameron H. N. Lindsay	High Sigma	Academic Chairman</Content>
+				<Br />
+				<Content>Daniel J. Varsanik	High Epsilon	Social Chairman</Content>
+				<Br />
+				<Content>Hunter S. Toomajian	Co–High Epsilon	Social Cochairman</Content>
+				<Br />
+				<Content>Aaron D. Helwig	High Rho	Alumni Secretary</Content>
+				<Br />
+				<Content>Bradley E. Quinn	High Pi	Alumni Advisor</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

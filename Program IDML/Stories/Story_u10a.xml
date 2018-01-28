@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="13.0">
+	<Story Self="u10a" IsEndnoteStory="false" UserText="true" AppliedTOCStyle="n" StoryTitle="$ID/" TrackChanges="false" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Heading">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>History</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/First Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Sigma Zeta was installed as the eighth chapter of ΛΧΑ on March 31, 1913. The twelve founding members petitioned ΛΧΑ-founder Warren A. Cole (Boston 1912) for a charter earlier that month, having formed a local organization about a year before. Brother Cole, eager to expand his fledgling fraternity, accepted the petition.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Membership increased in 1914 when Sigma absorbed ΜΨ, a local fraternity. Many brothers were involved in leadership roles in campus organizations, including Jack Blott ’24, an All-American center on the varsity football team. The chapter was a regular participant in interfraternity athletic competitions and social events throughout the 1910s and 20s.</Content>
+				<Br />
+				<Content>Sigma purchased its first home in 1915 at 1511 Washtenaw Avenue. This house and its property were sold to buy the land at 1601 Washtenaw Avenue, where the chapter house has been for most of Sigma’s history. Construction of the chapter house, funded by bonds sold by the chapter, was completed in 1927.</Content>
+				<Br />
+				<Content>The move to 1601 spurred Sigma on to new heights. In a time when there were sixty-five fraternities on campus, Sigma won the homecoming decorations contest in 1932, 1936 and 1939, and was among the top ten fraternities in intramural athletics every year from 1936 to 1939.</Content>
+				<Br />
+				<Content>In 1939, ΛΧΑ merged with ΘΚΝ. ΘΚΝ placed Michigan-Alpha chapter at the University on September 26, 1925 when it gave a charter to local fraternity ΚΕΠ. ΚΕΠ was formed in 1925 by the merger of the Wayfarers’ Club (founded 1919) with ΦΠ (1922). Unification of Sigma with Michigan-Alpha was cemented by the inclusion of the ΘΚΝ brothers in ΛΧΑ’s Initiation Ritual in 1940.</Content>
+				<Br />
+				<Content>As membership waned during World War II, a small but dedicated group of Sigma brothers moved to an apartment at 320 South State Street in May 1943. This move allowed the chapter to rent the chapter house to the University and later the Red Cross. The rental income enabled Sigma to retain ownership of the property. Alumni—led by Ross E. MacNaughton ’27, who served as house corporation president for several years—were also heavily involved.</Content>
+				<Br />
+				<Content>The return to 1601 in 1946 heralded some of Sigma’s most prosperous years. Over the next decade, Sigma regularly counted over one hundred undergraduate brothers and was dominant in interfraternity competitions, taking first place in Interfraternity Council Sing in 1949 and 1955, as well as winning many intramural athletics titles.</Content>
+				<Br />
+				<Content>The chapter continued to thrive throughout the 1960s. Sigma brothers were elected Interfraternity Council presidents in 1961 and 1963. The membership included many varsity athletes and campus leaders. Sigma’s musical success continued with victories in Interfraternity Council Sing competitions in 1959, 1961, and 1962. </Content>
+				<Br />
+				<Content>After a difficult period in the late 1960s, the General Fraternity recognized Sigma with the Phoenix Award in 1974 and Grand High Alpha Awards in 1976 and 1979. Sigma remained a large, well-organized chapter into the 1980s, leading the way in intramural athletic competitions and philanthropic events, but after a tumultuous time in the early 1990s the chapter was shuttered in 1994.</Content>
+				<Br />
+				<Content>A 1998 recruitment effort installed fourteen founding brothers of “colony 119” at Michigan. Through the dedicated work of these brothers and those that followed, the charter was restored in 2002. In 2004, Sigma returned to 1601. Sigma once again regularly counts campus leaders among its ranks and continues to build toward excellence.</Content>
+				<Br />
+				<Content>Sigma has been honored with the Alumni Publications (1953–1960, 1963, 1969, and 2008), Campus Involvement (2005), and Membership Recruitment (2007) Awards from the General Fraternity.</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

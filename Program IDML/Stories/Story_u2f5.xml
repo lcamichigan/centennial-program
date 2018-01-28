@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="13.0">
+	<Story Self="u2f5" IsEndnoteStory="false" UserText="true" AppliedTOCStyle="n" StoryTitle="$ID/" TrackChanges="false" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Heading">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Orders</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/First Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>The </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Italic">
+				<Content>Order of Merit</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content> recognizes lengthy, dedicated service to ΛΧΑ, usually at the chapter level. Three Sigma brothers have received the Order of Merit.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Ross E. MacNaughton ’27 received the Order of Merit in 1948. Brother MacNaughton chaired the committee to merge the ΘΚΝ and ΛΧΑ chapters at Michigan, and his leadership enabled Sigma to remain functional and financially stable during World War II.</Content>
+				<Br />
+				<Content>Dr. John B. Van Why ’32 received the Order of Merit in 1954. Brother Van Why served the ΛΧΑ chapters at the University of South Dakota and Wittenberg University as High Pi, house corporation board member, and personal counselor to undergraduates.  </Content>
+				<Br />
+				<Content>J. George Friess ’57 received the Order of Merit in 2008. Brother Friess became involved with Sigma House Corporation during the 1993 renovation of the chapter house. He served as president of Sigma Alumni Association in the years from the chapter’s return to campus in 1998 to 2009. The chapter’s return to 1601 Washtenaw Avenue would not have been possible without the guidance and support of Brother Friess and the alumni he recruited and led.</Content>
+				<Br />
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/First Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>The </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="Italic">
+				<Content>Order of Achievement</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content> recognizes brothers of ΛΧΑ who stand out as leaders of their professions. George W. Spasyk ’49 and C. Robert Kidder ’67 have received this honor.</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

@@ -1,6 +1,7 @@
 # https://www.appveyor.com/docs/appveyor-yml
 
 install:
+  - choco install zip
   - ps: Start-FileDownload 'https://raw.githubusercontent.com/lcamichigan/make-idml/master/make-idml.cmd'
 
 build_script:

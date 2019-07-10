@@ -15,6 +15,6 @@ To edit the centennial banquet program, you need:
 
 * These fonts:
   * [Bonheur Royale](https://www.myfonts.com/fonts/typesetit/bonheur-royale/)
-  * [Garamond Premier Pro](https://typekit.com/fonts/garamond-premier)
+  * [Garamond Premier Pro](https://fonts.adobe.com/fonts/garamond-premier)
   * [Gill Sans Light](https://catalog.monotype.com/font/monotype/gill-sans/light)
     (this font is included with macOS)
